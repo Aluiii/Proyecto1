@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(158, 114, 199, 0.37)
+}
+header{
+    text-align: left;  
+}
+h1{
+    color: rgba(29, 6, 51, 0.712);
+}
+nav{
+    text-align: right;
+}
+
+.logo{
+    border-radius: 30%;
+    width: 240px;
+}
+.listas{
+    background-color: rgba(137, 43, 226, 0.274);
+    padding: 0%;
+    text-decoration: none;
+    margin: 5px auto;
+}
+.listas li{
+    display: inline-block;
+    color: rgb(207, 172, 240);
+}
+.listas li a:hover{
+    background-color: rgb(145, 93, 187);
+}
+main{
+    background-color: rgba(116, 45, 182, 0.658);
+    text-align: center;
+    padding: 5%;
+}
+main img{
+    width: 400px;
+    margin: 5px;
+}
+.about{
+    line-height: 1.5;
+}
+main h3{
+    text-align: left;
+}
+}
+footer{
+    text-align: end;
+    padding: 10%;
+    margin-top: 5%;
+}
